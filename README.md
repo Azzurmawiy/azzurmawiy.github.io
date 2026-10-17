@@ -1,5 +1,6 @@
 # Frontend Mentor - QR code component solution
 
+
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -12,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-## Overview[cite
+## Overview
 
 ### Screenshot
 
@@ -20,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: (https://github.com/Azzurmawiy/azzurmawiy.github.io.git)
+- Live Site URL: (https://azzurmawiy.github.io/)
 
 ## My process
 
@@ -44,3 +45,16 @@ body {
   justify-content: center;
   min-height: 100vh;
 }
+```
+## Author
+
+- Website - [Auwal Usman](https://azzurmawiy.github.io/)
+- Frontend Mentor - [azzurmawiy](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [Auwal Usman](https://www.twitter.com/azzurmawiy)
+
+### AI Collaboration
+
+- Gemini
+- generating README.md file
+- it generated up to what I learned?
+
